@@ -16,9 +16,9 @@ function HomePage() {
   };
 
   const images = [
-    '/images/banner1.jpg',
-    '/images/banner2.jpg',
-    '/images/banner3.jpg',
+    'https://raw.githubusercontent.com/zeeshanrsystems/fornaxx/main/public/Images/banner1.jpg',
+    'https://raw.githubusercontent.com/zeeshanrsystems/fornaxx/main/public/Images/banner2.jpg',
+    'https://raw.githubusercontent.com/zeeshanrsystems/fornaxx/main/public/Images/banner3.jpg',
   ];
 
   return (
