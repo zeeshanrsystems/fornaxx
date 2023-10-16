@@ -1,0 +1,15 @@
+.footer{
+    height: 40px;
+}
+
+.fcontainer{
+
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fcontainer p{
+    margin-bottom: 0px;
+}

@@ -1,0 +1,60 @@
+.navbarc{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.dropdown-item.active, .dropdown-item:active{
+    background-color: rgb(240 240 240);
+    color: blue;
+
+}
+
+.nav-link:focus, .nav-link:hover {
+    background-color: rgb(240 240 240);
+}
+
+.dropdown-toggle::after {
+    display: none;
+  }
+/* @media (max-width: 768px) {
+
+} */
+
+
+@media (min-width: 768px) {
+
+    .dropdown-wrapper.show{
+        display: flex;
+        width: 100vw;
+    }
+
+/* Adjust the position of the dropdown menu */
+.dropdown-menu.dropdown-wrapper {
+    position: fixed !important; /* Position it absolutely within the viewport */
+    top: 62px; /* Position it at the top of the viewport */
+    left: 0; /* Position it at the left edge of the viewport */
+    right: auto; /* To align it with the left edge of the viewport */
+    transform: translateX(0);
+    border-radius: 0; /* Remove any horizontal translation */
+    background-color: rgb(240 240 240);
+    padding: 0px;
+  }
+  
+  .navbar-expand-md .navbar-nav .nav-link{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: blue;
+}
+.navbar-brand{
+    color: blue;
+}
+.dropdown-item:focus, .dropdown-item:hover{
+    color: blue;
+}
+.dropdown-item:focus, .dropdown-item{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+}
