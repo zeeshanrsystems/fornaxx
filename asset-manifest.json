@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fornaxx/static/css/main.dfd2b04f.css",
+    "main.js": "/fornaxx/static/js/main.d58c2f38.js",
+    "static/js/787.5ad3b6c5.chunk.js": "/fornaxx/static/js/787.5ad3b6c5.chunk.js",
+    "static/media/logo.svg": "/fornaxx/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fornaxx/index.html",
+    "main.dfd2b04f.css.map": "/fornaxx/static/css/main.dfd2b04f.css.map",
+    "main.d58c2f38.js.map": "/fornaxx/static/js/main.d58c2f38.js.map",
+    "787.5ad3b6c5.chunk.js.map": "/fornaxx/static/js/787.5ad3b6c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd2b04f.css",
+    "static/js/main.d58c2f38.js"
+  ]
+}
